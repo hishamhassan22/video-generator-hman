@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator Studio",
+  "description": "أنشئ فيديوهات احترافية بالذكاء الاصطناعي من النصوص والصور مع التخزين المحلي والشخصيات المخصصة والمشاركة المباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
